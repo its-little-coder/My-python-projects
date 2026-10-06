@@ -6,7 +6,7 @@ Hi! I am **Saksham**, a Class 5 student from India. I am passionate about learni
 * **Programming:** Python, Binary Code
 * **Math & Logic:** Coordinate Geometry, Trigonometry (`sin`, `cos`, `atan2`)
 * **Tools Used:** Pydroid 3 (Android IDE)
-* **AI Mentor:** Claude AI
+* **AI Mentor:** Claude AI, gemini
 
 ## 📁 What's Inside This Repository?
 * **DODGE_2.0.py & dodge_game.py:** My game development experiments.
