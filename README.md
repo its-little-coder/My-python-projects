@@ -5,7 +5,7 @@ Hi! I am **Saksham**, a **Class 5** my age is **10** a student from **India**. I
 ## 🛠️ My Skill Tree
 * **Programming:** Python, Binary Code
 * **Math & Logic:** Coordinate Geometry, Trigonometry (`sin`, `cos`, `atan2`)
-* **Tools Used:** termux: termunal
+* **Tools Used:** termux: terminal
 * **AI Mentor:** Claude AI, gemini
 
 ## 📁 What's Inside This Repository?
@@ -30,6 +30,19 @@ Features:
 - Data saves permanently in database.json using json.du
 
 Built in **termux: terminal**.
-##my device 📱
+## My Device 📱
+
+I built this project on my daily driver - Lava LEX402 (Lava Z33)
+
+Specs:
+- Model: LAVA Z33 / LEX402
+- RAM: 3GB | Storage: 32GB (512GB Expandable)
+- Processor: MediaTek Helio A20 Octa-core 1.8GHz
+- OS: Android 12 (Stock)
+- Display: 6.51" HD+ IPS, Waterdrop Notch
+- Battery: 5000mAh
+- Tools Used: Termux, Python, GitHub Codespace
+
+> Tested and developed entirely on mobile - no PC needed but it's a dream having a good pc🥺.
 
 *Learning and building something new for 2.5 hours every single day!* 💻
