@@ -12,6 +12,7 @@ Hi! I am **Saksham**, a **Class 5** my age is **10** a student from **India**. I
 * **DODGE_2.0.py & dodge_game.py:** My **python** development experiments.
 * **clock.py:** A program to track time.
 * **Multi_profile_login.py:** A simple JSON-based profile manager in **Python**.
+* **password_checker.py:** A use full tool that checks how strong password it is. it checks is password have **special characters** and **Numbers** or uppercase and lowercase letters are mixed and it doesn't leak your password and **doesn't save your password into file** 🗃️.
 
 - Loads all profiles from `database.json` safely
 - Add new profile with name & skill
@@ -23,11 +24,12 @@ Hi! I am **Saksham**, a **Class 5** my age is **10** a student from **India**. I
 
 A simple JSON-based profile manager in Python. It loads all profiles from **database.json**, allows adding new profiles with name and skill, and displays all saved profiles.
 
+
 Features:
 - Loads data safely with **os.path.exists** check
 - Add Profile with name and skill
 - View All Profiles
-- Data saves permanently in database.json using json.du
+- Data saves permanently in database.json using json.dump
 
 Built in **termux: terminal**.
 ## My Device 📱
