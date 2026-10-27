@@ -5,6 +5,8 @@ Hi! I am **Saksham**, a **Class 5** my age is **10** a student from **India**. I
 ## 🛠️ My Skill Tree
 * **Programming:** Python, Binary Code
 * **Math & Logic:** Coordinate Geometry, Trigonometry (`sin`, `cos`, `atan2`)
+* **Data Science & ML:** NumPy, Pandas, Matplotlib, scikit-learn
+* **Regex:** Pattern matching for validation and text extraction
 * **Tools Used:** termux: terminal
 * **AI Mentor:** Claude AI, gemini
 
@@ -18,12 +20,14 @@ Hi! I am **Saksham**, a **Class 5** my age is **10** a student from **India**. I
 - Add new profile with name & skill
 - View all registered profiles
 - Data persists using JSON file
-* **compass🧩.py:** Navigation logic using geometry and angles.
+* **compass🧭.py:** Navigation logic using geometry and angles.
+* **iss_compass.py:** Fetches the live ISS position from an API and uses trigonometry (`atan2`) to calculate its bearing direction from my location — verified with a real phone compass!
+* **ip_validator.py:** Extracts IP addresses from log text using **regex**, then validates whether each IP is actually valid by checking if every part falls within the 0-255 range.
+* **digit_recognizer.py:** A **Machine Learning** project using `scikit-learn` that recognizes handwritten digits (0-9). Trains a Decision Tree Classifier on the `load_digits` dataset, evaluates it with a **Confusion Matrix** and **Accuracy Score**, and visualizes results as a heatmap using Matplotlib.
 * **info.py:** my intro in python using json module (only experiment).
 * **Multi_profile_login2.0:** Smart Profile Manager (Base Version)
 
 A simple JSON-based profile manager in Python. It loads all profiles from **database.json**, allows adding new profiles with name and skill, and displays all saved profiles.
-
 
 Features:
 - Loads data safely with **os.path.exists** check
@@ -32,6 +36,7 @@ Features:
 - Data saves permanently in database.json using json.dump
 
 Built in **termux: terminal**.
+
 ## My Device 📱
 
 I built this project on my daily driver - Lava LEX402 (Lava Z33)
