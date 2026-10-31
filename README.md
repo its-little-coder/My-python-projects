@@ -12,6 +12,7 @@ Hi! I am **Saksham**, a **Class 5** my age is **10** a student from **India**. I
 
 ## 📁 What's Inside This Repository?
 * **DODGE_2.0.py & dodge_game.py:** My **python** development experiments.
+* * **SITE_XRAY.py:** A custom **OSINT (Open-Source Intelligence) reconnaissance tool** that gathers public information about any website — **IP address**, WHOIS data (registrar, creation/expiry dates), **HTTP headers** (server type, status code, content-type). Built using `socket`, `requests`, and `whois` libraries.
 * **clock.py:** A program to track time.
 * **Multi_profile_login.py:** A simple JSON-based profile manager in **Python**.
 * **password_checker.py:** A use full tool that checks how strong password it is. it checks is password have **special characters** and **Numbers** or uppercase and lowercase letters are mixed and it doesn't leak your password and **doesn't save your password into file** 🗃️.
@@ -39,7 +40,7 @@ Built in **termux: terminal**.
 
 ## My Device 📱
 
-I built this project on my daily driver - Lava LEX402 (Lava Z33)
+I built this project on my daily driver - **Lava LEX402 (Lava Z33)**
 
 Specs:
 - Model: LAVA Z33 / LEX402
