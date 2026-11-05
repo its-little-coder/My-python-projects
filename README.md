@@ -54,3 +54,7 @@ Specs:
 > Tested and developed entirely on mobile - no PC needed but it's a dream having a good pc🥺.
 
 *Learning and building something new for 2.5 hours every single day!* 💻
+
+## connect me with 🫂
+GitHub: https://github.com/its-little-coder 
+javascript repo: https://github.com/its-little-coder/my-javascript-projects 
