@@ -1,6 +1,6 @@
 # 🚀 Welcome to My Python Projects Space!
 
-Hi! I am **Saksham**, a **Class 5** my age is **10** a student from **India**. I am passionate about learning software development, cybersecurity, artificial intelligence, and astronomy. 
+Hi! I am **Saksham**, a student from **India**. I am passionate about learning software development, cybersecurity, artificial intelligence, and astronomy. 
 
 ## 🛠️ My Skill Tree
 * **Programming:** Python, Binary Code
